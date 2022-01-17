@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Emmanuel Modesto</h1>
-<h3 align="center">A passionate .Net Core backend developer from México.</h3>
+<h3 align="center">A passionate Angular Frontend Developer and .Net Core Backend developer from México.</h3>
 My development profile: I really like the backend and .Net Core is my favorite however I also know Angular, always learning and developing professionally to create a complete profile looking to use design patterns, methodologies and good practices.
 
 About me: my complete name is Cristopher Emmanuel Gallegos Modesto (Oh no it's long).
