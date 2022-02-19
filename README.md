@@ -16,7 +16,7 @@ About me: my complete name is Cristopher Emmanuel Gallegos Modesto (Oh no it's l
 - ⚡ Fun fact **I love cats and violin**
 
 - Portfolio <a href="https://eimvi.vercel.app/"> Eimvi </a> 
->Nota: Mi portfolio aún está en proceso de terminar, pero es un avance muy significativo lo ya realizado.
+>Note: My portfolio is still in the process of finishing, but what has already been done is a very significant advance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
